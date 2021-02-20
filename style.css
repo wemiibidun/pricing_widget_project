@@ -1,0 +1,127 @@
+body {
+  margin: 0;
+  /*this means that all four sides will be zero for margin property*/
+  font-family: 'Source Sans Pro', sans-serif;
+  background-color: #e9e4e6;
+}
+
+.h2-text {
+  color: #11999E;
+}
+
+.h3-text {
+  color: #e9ea77;
+}
+
+.main-box {
+  width: 600px;
+  height: 500px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  border-radius: 10px;
+  box-shadow: 0 0 10px 0 #cccccc;
+}
+
+.community-container {
+  background-color: #ffffff;
+  height: 45%;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.community-text-container{
+  padding-top: 7%;
+  padding-left: 5%;
+  padding-right: 10%;
+}
+
+.gain-access-text {
+  color: #c5c5c5;
+}
+
+.monthly-container {
+  background-color: #00b7b4;
+  width: 50%;
+  height: 55%;
+  float: left;
+  text-align: left;
+  border-bottom-left-radius: 10px;
+  color: white;
+}
+
+.monthly-text-container {
+  padding-top: 10%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.per-month {
+  /*span class in monthly container*/
+  font-size: 15px;
+  color: #b6e6bd;
+}
+
+.full-access-text {
+  /*full access text in monthly container*/
+  color: #bdf2d5;
+}
+
+.why-container {
+  background-color: #00c2c0;
+  height: 55%;
+  width: 50%;
+  float: right;
+  text-align: left;
+  border-bottom-right-radius: 10px;
+  color: #dafafb;
+}
+
+.why-text-container {
+  padding-top: 10%;
+  padding-left: 10%;
+  padding-right: 20%;
+}
+
+/*Monthly Subscription button div*/
+.myButton {
+  box-shadow: 0 10px 14px -7px #91b8b3;
+  background: linear-gradient(to bottom, #ccda46 5%, #ccda46 100%);
+  border-radius: 8px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 13px 32px;
+  width: 70%;
+  text-decoration: none;
+  text-align: center;
+}
+
+.myButton:hover {
+  background: linear-gradient(to bottom, #dfdfdf 5%, #dfdfdf 100%);
+  background-color: #6c7c7c;
+}
+
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
+
+/*footer div*/
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
