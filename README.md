@@ -10,7 +10,7 @@ My clients should be able to:
 
 - View the optimal layout for the component on their desktop's screen size
 - See a hover state on desktop for the Sign Up call-to-action
-- Link to this Github project and my Blog Page Documentation: [Pricing_Widget_Project](https://wemiibidun.github.io/my_resume/)
+- Link to this Github project and my Blog Page Documentation: [Pricing_Widget_Project](https://wemiibidun.github.io/pricing_widget_project/)
 
 ## Giving feedback
 
