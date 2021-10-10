@@ -25,7 +25,7 @@ My clients should be able to:
 
 
 ## Link to Deployed Project
-[Pricing_Widget_Project](https://wemiibidun.github.io/pricing_widget_project/)
+[Pricing Widget Project](https://wemiibidun.github.io/pricing_widget_project/)
 
 
 ## Status
