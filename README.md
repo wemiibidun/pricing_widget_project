@@ -1,21 +1,34 @@
-Single Price Grid Component Project
+![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/pricing_widget_project)
+![GitLab Status](https://flat.badgen.net/github/status/micromatch/micromatch)
 
-## Welcome! 👋
+## Hi & Welcome! 👋
+This is a Single Price Grid Component Project Challenge from Front End Mentor
 
-Thanks for checking out this front-end coding challenge.
+## Table of contents
+* [Project Aim](#project-aim)
+* [Screenshot](#screenshot)
+* [Link to Deployed Project](#link-to-deployed-project)
+* [Status](#status)
+* [Contact](#contact)
 
-## The challenge
 
+## Project Aim
 My clients should be able to:
-
 - View the optimal layout for the component on their desktop's screen size
 - See a hover state on desktop for the Sign Up call-to-action
-- Link to this Github project and my Blog Page Documentation: [Pricing_Widget_Project](https://wemiibidun.github.io/pricing_widget_project/)
 
-## Giving feedback
 
-Feedback is always welcome, so if you have any to give on this challenge please email wemiibidun@gmail.com.
+## Screenshot
+![Sample image](https://github.com/wemiibidun/my_first_webpage/blob/master/webpage_screenshot.png)
 
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
-**Have fun!!!** 🚀
+
+## Link to Deployed Project
+[Pricing_Widget_Project](https://wemiibidun.github.io/pricing_widget_project/)
+
+
+## Status
+Project is: _Complete_
+
+## Contact
+Created by [@wemiibidun](https://twitter.com/wemiibidun/). Feel free to contact me via wemiibidun@gmail.com
