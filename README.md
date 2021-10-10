@@ -9,6 +9,7 @@ This is a Single Price Grid Component Project Challenge from Front End Mentor
 * [Screenshot](#screenshot)
 * [Link to Deployed Project](#link-to-deployed-project)
 * [Status](#status)
+* [Inspiration](#inspiration)* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 
@@ -29,6 +30,9 @@ My clients should be able to:
 
 ## Status
 Project is: _Complete_
+
+## Inspiration
+This project was inspired by [Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc)
 
 ## Contact
 Created by [@wemiibidun](https://twitter.com/wemiibidun/). Feel free to contact me via wemiibidun@gmail.com
