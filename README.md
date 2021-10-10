@@ -9,7 +9,7 @@ This is a Single Price Grid Component Project Challenge from Front End Mentor
 * [Screenshot](#screenshot)
 * [Link to Deployed Project](#link-to-deployed-project)
 * [Status](#status)
-* [Inspiration](#inspiration)* [Inspiration](#inspiration)
+* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 
