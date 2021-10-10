@@ -20,7 +20,7 @@ My clients should be able to:
 
 
 ## Screenshot
-![Sample image](https://github.com/wemiibidun/my_first_webpage/blob/master/webpage_screenshot.png)
+![Sample image](https://github.com/wemiibidun/pricing_widget_project/blob/master/price_widget_screenshot.png)
 
 
 
