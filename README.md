@@ -1,5 +1,5 @@
 ![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/pricing_widget_project)
-![GitLab Status](https://flat.badgen.net/github/status/micromatch/micromatch)
+
 
 ## Hi & Welcome! 👋
 This is a Single Price Grid Component Project Challenge from Front End Mentor
