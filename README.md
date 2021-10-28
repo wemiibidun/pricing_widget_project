@@ -1,4 +1,5 @@
 ![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/pricing_widget_project)
+![GitLab Languages](https://img.shields.io/github/languages/count/wemiibidun/pricing_widget_project)
 
 
 ## Hi & Welcome! 👋
